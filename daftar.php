@@ -63,7 +63,7 @@ $result = mysqli_query($koneksi, $query);
             <div class="row mt-5">
                 <div class="col-2 text-center">
                     <!-- Fitur Retrieve/Tambah Data -->
-                    <a href="add.php"><button type="submit" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#tambahDataModal">Tambah Data</button></a>
+                    <a href="add.php"><button type="submit" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#tambahDataModal"Daftar</button></a>
                 </div>
             </div>
 
